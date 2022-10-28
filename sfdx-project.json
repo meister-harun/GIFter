@@ -1,5 +1,5 @@
 {
-   "packageDirectories": "OHo3i00000fxT9CAI"[
+   "packageDirectories":[
       {
          "path": "force-app",
          "default": true,
@@ -11,7 +11,7 @@
    "namespace": "",
    "sfdcLoginUrl": "https://login.salesforce.com",
    "sourceApiVersion": "55.0",
-   "packageAliases":"0Ho" {
+   "packageAliases": {
       "GIFter": "0Hoxxx",
       "GIFter@1.0.0-1": "04txxx"
    }
